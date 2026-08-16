@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://supremelibrary.github.io/sitemap.xml
